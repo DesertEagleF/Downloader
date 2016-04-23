@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EighthWeek</string>
+    <string name="tips_text">请输入下载地址：</string>
+    <string name="download_button_text">下载</string>
+    <string name="default_text">http://download.sj.qq.com/upload/connAssitantDownload/upload/MobileAssistant_1.apk</string>
+</resources>
